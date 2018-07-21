@@ -13,7 +13,7 @@ CHAT_MESSAGES_RECEIVED = 2
 NEXT_UPDATE_ID = 3
 BOT_MENTIONED_IN_MESSAGE = 4
 
-BOT_ID = 156655373
+BOT_ID = 0 # Fill your bot ID here
 BOT_API_URL = "" # Fill your Telegram bot URL here
 STICKER_FILE_ID = [] # Fill your sticker IDs here
 BOT_AT_HANDLE = "@" # Fill your bot handle here
